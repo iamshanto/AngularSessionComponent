@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+.sidebar{
+    width: 25%;
+    float: left;
+}
+
+.detail{
+    width: 60%;
+    float: left;
+}
+
+.padding{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
